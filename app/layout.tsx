@@ -20,7 +20,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           <ThemeProvider
             attribute="class"
             defaultTheme="dark"
-            enableSystem={false}
+            enableSystem={false} // can switch to true if needed, but for now let it stay at false
             storageKey="discord-theme">
             {children}
           </ThemeProvider>
