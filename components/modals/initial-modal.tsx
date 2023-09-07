@@ -28,7 +28,7 @@ const formSchema = z.object({
     message: "Server name is required.",
   }),
   imageUrl: z.string().min(1, {
-    message: "Server image is required",
+    message: "Server image is required.",
   }),
 });
 
