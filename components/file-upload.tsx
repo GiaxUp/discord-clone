@@ -10,6 +10,7 @@ interface FileUploadProps {
   endpoint: "messageFile" | "serverImage";
 }
 
+// remember to fix this
 export const FileUpload = ({ onChange, value, endpoint }: FileUploadProps) => {
   const fileType = value?.split(".").pop();
   if (value && fileType !== "pdf") {
