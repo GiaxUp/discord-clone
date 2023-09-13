@@ -1,3 +1,24 @@
+# Fullstack Discord Clone
+###  (Next.js, React, Socket.io, Prisma, Tailwind, MySQL)
+Features:
+- Real-time messaging using Socket.io
+- Send attachments as messages using UploadThing
+- Delete and edit messages in real time for all users
+- Create Text, Audio and Video call channels
+- 1:1 conversation between members
+- 1:1 video calls between members
+- Member management (Kick, Role change Guest / Moderator)
+- Unique invite link generation & full working invite system
+- Server creation and customization
+- UI created using TailwindCSS and ShadcnUI
+- Full responsivity and mobile UI
+- Light / Dark mode
+- Websocket fallback: Polling with alerts
+- ORM using Prisma
+- MySQL database to store data
+- Authentication with Clerk
+
+### Things to change later:
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
