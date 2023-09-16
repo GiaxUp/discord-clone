@@ -33,6 +33,8 @@ import {
 } from "@/components/ui/select";
 import { ChannelType } from "@prisma/client";
 
+// 5-1, è finita!
+
 const formSchema = z.object({
   name: z
     .string()
@@ -89,9 +91,7 @@ export const CreateChannelModal = () => {
     <Dialog open={isModalOpen} onOpenChange={handleClose}>
       <DialogContent className="bg-white text-black p-0 overflow-hidden">
         <DialogHeader className="pt-8 px-6">
-          <DialogTitle className="text-2xl text-center font-bold">
-            Create channel
-          </DialogTitle>
+          <DialogTitle className="text-2xl text-center font-bold">Create channel</DialogTitle>
         </DialogHeader>
         <Form {...form}>
           <form onSubmit={form.handleSubmit(onSubmit)} className="space-y-8">
@@ -134,10 +134,7 @@ export const CreateChannelModal = () => {
                       </FormControl>
                       <SelectContent>
                         {Object.values(ChannelType).map((type) => (
-                          <SelectItem
-                            key={type}
-                            value={type}
-                            className="capitalize">
+                          <SelectItem key={type} value={type} className="capitalize">
                             {type.toLowerCase()}
                           </SelectItem>
                         ))}
