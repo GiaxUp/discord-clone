@@ -33,8 +33,6 @@ import {
 } from "@/components/ui/select";
 import { ChannelType } from "@prisma/client";
 
-// 5-1, è finita!
-
 const formSchema = z.object({
   name: z
     .string()
