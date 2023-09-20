@@ -1,5 +1,5 @@
 # Fullstack Discord Clone
-###  (Next.js, React, Socket.io, Prisma, Tailwind, MySQL)
+###  (Next.js, React, Socket.io, Prisma, Tailwind, postgreSQL)
 Features:
 - Real-time messaging using Socket.io
 - Send attachments as messages using UploadThing
@@ -13,9 +13,9 @@ Features:
 - UI created using TailwindCSS and ShadcnUI
 - Full responsivity and mobile UI
 - Light / Dark mode
-- Websocket fallback: Polling with alerts
+- Websocket fallback polling with alerts
 - ORM using Prisma
-- MySQL database to store data
+- postgreSQL database to store data
 - Authentication with Clerk
 
 ## Screenshots
@@ -70,7 +70,7 @@ NEXT_PUBLIC_LIVEKIT_URL=
 
 ### Setup Prisma
 
-Add MySQL Database (I have mine running on local)
+Add postgreSQL Database (I have mine running on local)
 
 ```shell
 npx prisma generate
