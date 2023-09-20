@@ -22,7 +22,7 @@ Features:
 
 **Node version 18.x.x**
 
-### Cloning the repository
+### Cloning my repository
 
 ```shell
 git clone https://github.com/GiaxUp/discord-clone.git
