@@ -1,5 +1,5 @@
 # Fullstack Discord Clone
-###  (Next.js, React, Socket.io, Prisma, Tailwind, postgreSQL)
+###  (Next.js, React, Socket.io, Prisma, Tailwind, postgreSQL
 Features:
 - Real-time messaging using Socket.io
 - Send attachments as messages using UploadThing
