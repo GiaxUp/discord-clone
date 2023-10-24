@@ -20,15 +20,15 @@ Features:
 
 ## Screenshots
 ### Home Page
-![HomePage](https://i.ibb.co/LxJ5Ffg/home.png)
+![image](https://github.com/GiaxUp/discord-clone/assets/40038797/7751efcb-5080-49e0-9b23-ef19314afa2f)
 ### New Server
-![New Server](https://i.ibb.co/gmQfzWQ/new.png)
+![image](https://github.com/GiaxUp/discord-clone/assets/40038797/1ce995fa-842c-4d0e-bcf9-fe037a30d32e)
 ### Private Chat 1:1
-![Private Chat 1:1](https://i.ibb.co/CBRGdKP/private.png)
+![image](https://github.com/GiaxUp/discord-clone/assets/40038797/0a05e7ad-e864-4e78-86fe-ce4a78ee5264)
 ### Search + Server Management
-![Search + Server Management](https://i.ibb.co/xgQf5GD/search.png)
+![image](https://github.com/GiaxUp/discord-clone/assets/40038797/40aa055f-28be-483b-83b2-90531571d2fe)
 ### Video/Vocal Channel
-![Vocal Channel](https://i.ibb.co/5vrdpRv/audio.png)
+![image](https://github.com/GiaxUp/discord-clone/assets/40038797/1684950f-207b-4a34-8e91-b1f89601dd35)
 
 ### Prerequisites
 
