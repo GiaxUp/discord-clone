@@ -20,15 +20,15 @@ Features:
 
 ## Screenshots
 ### Home Page
-![HomePage](https://i.ibb.co/88X84RV/main.png)
+![HomePage](https://i.ibb.co/LxJ5Ffg/home.png)
 ### New Server
-![New Server](https://i.ibb.co/MDwcjb7/new.png)
+![New Server](https://i.ibb.co/gmQfzWQ/new.png)
 ### Private Chat 1:1
-![Private Chat 1:1](https://i.ibb.co/YW4Jqfj/private.png)
+![Private Chat 1:1](https://i.ibb.co/CBRGdKP/private.png)
 ### Search + Server Management
-![Search + Server Management](https://i.ibb.co/6rYtmdq/search.png)
+![Search + Server Management](https://i.ibb.co/xgQf5GD/search.png)
 ### Video/Vocal Channel
-![Vocal Channel](https://i.ibb.co/NmnHWCH/vocal.png)
+![Vocal Channel](https://i.ibb.co/5vrdpRv/audio.png)
 
 ### Prerequisites
 
